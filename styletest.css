@@ -13,3 +13,16 @@ div#test01 {
 .important {
   color: #a00;
 }
+
+
+.el {
+  background-color:aqua
+}
+
+.ol {
+  background-color:antiquewhite
+}
+
+td,th {
+  border: solid;
+}
